@@ -13,13 +13,13 @@
 * I write clean, standard-based semantic markup optimized to deliver exceptional UX/UI.
   
 ### Skills:     
-• JavaScript | HTML5 | CSS3 | NodeJS | Vue | Flutter | Dart | Java | C | Python | JQuery | Three.JS | XML | KML | Git | Bash   
-• Developer Tools | ES6-ES2022 | SASS | Fetch | DSA (JS) | OOP | Linux | WebAR Development | Aframe | HTTP Auth | XSS   
+• JavaScript | HTML5 | CSS3 | NodeJS | Vue | TS | Flutter | Dart | Java | C | Python | JQuery | Three.JS | XML | KML | Git | Bash   
+• Developer Tools | ES6-ES2022 | Svelte | SASS | Fetch | DSA (JS) | OOP | Linux | WebAR Development | Aframe | HTTP Auth | XSS   
 • Figma | Framer | Blender | Krita | Sketch | Canva | PixelLab | VSCode | Android Studio | Google Earth | VirtualBox | Github   
 • JS Design Patterns | Frontend | UI/UX | CX | Usability Testing | Prototyping | Networking | Accessibility | W3C Standards   
 
 ### Skill icons:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vue,flutter,dart,svelte,java,c,python,jquery,threejs,git,bash,sass,linux,figma,blender,vscode,androidstudio,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vue,ts,flutter,dart,java,c,python,jquery,threejs,git,bash,svelte,sass,linux,figma,blender,vscode,androidstudio,github,replit,netlify)](https://skillicons.dev)
 
   
 <img src="https://github-readme-stats.vercel.app/api?username=yashrajbharti&show_icons=true&theme=dark" width="400">
