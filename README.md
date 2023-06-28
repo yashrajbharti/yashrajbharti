@@ -19,7 +19,7 @@
 • JS Design Patterns | Frontend | UI/UX | CX | Usability Testing | Prototyping | Networking | Accessibility | W3C Standards   
 
 ### Skill icons:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vue,flutter,dart,svelte,java,c,python,jquery,threejs,git,bash,sass,linux,figma,blender,vscode,androidstudio,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vue,flutter,dart,svelte,java,c,python,jquery,threejs,git,bash,sass,linux,figma,blender,vscode,androidstudio,github)](https://skillicons.dev)
 
   
 <img src="https://github-readme-stats.vercel.app/api?username=yashrajbharti&show_icons=true&theme=dark" width="400">
