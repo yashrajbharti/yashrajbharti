@@ -13,12 +13,12 @@
 * I write clean, standard-based semantic markup optimized to deliver exceptional UX/UI.
   
 ### Skills:   
-JavaScript | HTML5 | CSS3 | NodeJS | Vue | Flutter | Dart | Java | C | Python
-Figma | Blender | Framer | Krita | Sketch | Canva 
+JavaScript | HTML5 | CSS3 | NodeJS | Vue | Flutter | Svelte | Dart | Java | C | Python
+Figma | Blender | Framer | Krita | Sketch | Canva    
 UI/UX | CX | Usability Testing | Prototyping | Networking | Accessibility | W3C Standards  
 
 ### Skill icons:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vue,flutter,dart,java,c,python,figma,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vue,flutter,svelte,dart,java,c,python,figma,blender)](https://skillicons.dev)
 
 <img src="https://github-readme-stats.vercel.app/api?username=yashrajbharti&show_icons=true&theme=dark" width="400">
 
