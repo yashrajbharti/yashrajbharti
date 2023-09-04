@@ -8,7 +8,7 @@
 
 ### Description:
 * I'm Yash Raj, the purveyor of Front-facing applications and good User Experience at CYBTEKK ITVERSE LLP.
-* I'm a Mentor of **Google Summer of Code at Liquid Galaxy**, this is founded by [Google](https://www.google.com) in 2008, and the maintainer of [Liquid Galaxy EU](https://www.liquidgalaxy.eu).
+* I'm a Mentor of **Google Summer of Code at Liquid Galaxy**, founded by [Google](https://www.google.com) in 2008, and the maintainer of [Liquid Galaxy EU's Website](https://www.liquidgalaxy.eu).
 * I specialize in UX/UI & performing devoperations: HTML5, CSS3, & JavaScript with Responsive, Adaptive, & Redaptive design. 
 * I'm also a stickler for standards such as W3C Standards and Accessibility.
 * I write clean, standard-based semantic markup optimized to deliver exceptional UX/UI.
