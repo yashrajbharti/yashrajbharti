@@ -25,5 +25,5 @@
 &nbsp;
 &nbsp;     
 &nbsp;  
-<img src="https://github-readme-stats.vercel.app/api?username=yashrajbharti&show_icons=true&theme=dark" width="400">    
+<img src="https://github-readme-stats.vercel.app/api?username=yashrajbharti&theme=dark&show_icons=true&include_all_commits=true&count_private=true" width="400">    
 
