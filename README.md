@@ -13,6 +13,8 @@
 * I specialize in UX/UI & performing devoperations: HTML5, CSS3, & JavaScript with Responsive, Adaptive, & Redaptive design. 
 * I'm also a stickler for standards such as W3C Standards and Accessibility.
 * I write clean, standard-based semantic markup optimized to deliver exceptional UX/UI.
+* I am developing a new [CSS motion-blur property](https://github.com/w3c/csswg-drafts/issues/11134) to bring advanced motion-blur effects natively to CSS, similar to those currently achievable with SVG.
+* I am also contributing to [MDN Web Docs](https://github.com/mdn/content/pulls?q=is%3Apr+author%3Ayashrajbharti+is%3Aclosed), shaping the documentation for the future of the web and making it more accessible for developers.
   
 ### Skills:     
 • JavaScript | HTML5 | CSS3 | NodeJS | Vue | TS | Flutter | Dart | Java | C | Python | JQuery | Three.JS | XML | KML | Git | Bash   
