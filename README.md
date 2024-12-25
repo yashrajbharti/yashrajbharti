@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning UXE stuff.
 - 💬 Ask me about JavaScript.
 - 📫 How to reach me: [Drop a message!](https://www.linkedin.com/in/yash-raj-bharti-5693b6183/)
+- 🛣️ Follow my journey on my [blog](https://yashrajbharti.github.io/Design-Portfolio/projects/journey-blog.html)
 - ⚡ Fun fact: I love Pokemons.
 
 ### Description:
