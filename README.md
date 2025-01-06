@@ -19,7 +19,7 @@
   
 ### Skills:     
 • JavaScript | HTML5 | CSS3 | NodeJS | Vue | TS | Flutter | Dart | Java | C | Python | JQuery | Three.JS | XML | KML | Git | Bash   
-• Developer Tools | ES6-ES2024 | Svelte | SASS | Fetch | DSA (JS) | OOP | Linux | WebAR Development | Aframe | HTTP Auth | XSS   
+• Developer Tools | EcmaScript | Svelte | SASS | Fetch | DSA (JS) | OOP | Linux | WebAR Development | Aframe | HTTP Auth | XSS   
 • Figma | Framer | Blender | Krita | Sketch | Canva | PixelLab | VSCode | Android Studio | Google Earth | VirtualBox | Github   
 • JS Design Patterns | Frontend | UI/UX | CX | Usability Testing | Prototyping | Networking | Accessibility | W3C Standards   
 
