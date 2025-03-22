@@ -18,8 +18,8 @@
 * I am also contributing to [MDN Web Docs](https://github.com/mdn/content/pulls?q=is%3Apr+author%3Ayashrajbharti+is%3Aclosed), shaping the documentation for the future of the web and making it more accessible for developers.
   
 ### Skills:     
-• JavaScript | HTML5 | CSS3 | NodeJS | Vue | TS | Flutter | Dart | Java | C | Python | JQuery | Three.JS | XML | KML | Git | Bash   
-• Developer Tools | EcmaScript | Svelte | SASS | Fetch | DSA (JS) | OOP | Linux | WebAR Development | Aframe | HTTP Auth | XSS   
+• JavaScript | HTML | CSS | NodeJS | React | Next.js | TS | Flutter | Dart | Java | C | Python | JQuery | Three.JS | XML | KML | Git | Bash   
+• Developer Tools | EcmaScript | Svelte | Vue | SASS | Fetch | DSA (JS) | OOP | Linux | WebAR Development | Aframe | HTTP Auth | XSS   
 • Figma | Framer | Blender | Krita | Sketch | Canva | PixelLab | VSCode | Android Studio | Google Earth | VirtualBox | Github   
 • JS Design Patterns | Frontend | UI/UX | CX | Usability Testing | Prototyping | Networking | Accessibility | W3C Standards   
 
