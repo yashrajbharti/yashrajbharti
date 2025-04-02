@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love Pokemons.
 
 ### Description:
-* I'm Yash Raj, the open-sourcerer with 2x Talks at Google, 1 upcoming Google I/O, accessibility supporter, W3C, MDN and Google open source contributor working on Google Earth UX.
+* I'm Yash Raj, the open-sourcerer with 2x Talks at Google, Google I/O, accessibility supporter, W3C, MDN and Google open source contributor working on Google Earth UX.
 * I'm a Senior Mentor, and one of the Org Admins of **Google Summer of Code at Liquid Galaxy**, founded by [Google](https://www.google.com) in 2008, and the maintainer of [Liquid Galaxy Project Website](https://www.liquidgalaxy.eu).
 * I have completed my bachelor's and master's from IIT BHU, where I dived into the realm of **User Experience**.  
 * I specialize in UX/UI & performing devoperations: HTML, CSS, & JavaScript with Responsive, Adaptive, & Performant design. 
